@@ -8,7 +8,7 @@ import { Toaster } from "react-hot-toast";
 import { AuthProvider } from "./context/AuthContext";
 import PrivateRoute from "./components/common/PrivateRoute";
 
-// Auth Pages
+// Auth Pages {Login & Register}
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
 
