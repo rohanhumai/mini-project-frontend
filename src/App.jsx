@@ -25,7 +25,7 @@ import ViewAttendance from "./pages/teacher/ViewAttendance";
 import LectureHistory from "./pages/teacher/LectureHistory";
 
 // Student Pages
-import StudentDashboard from "./pages/student/StudentDashboard";
+import StudentDashboard from "./pages/student/StudentDashboard.jsx";
 import ScanQR from "./pages/student/ScanQR";
 import AttendanceHistory from "./pages/student/AttendanceHistory";
 
